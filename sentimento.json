@@ -1,0 +1,237 @@
+[
+  {
+    "id": "evt-123456789",
+    "timestamp": "2024-04-25T14:30:00Z",
+    "text": "Adoro as joias deste marketplace! Sempre encontro peças únicas e de ótima qualidade.",
+    "sentiment": {
+      "score": 0.95,
+      "label": "positivo"
+    },
+    "product": {
+      "id": "prod-987654321",
+      "name": "Bracelete Artesanal de Prata"
+    },
+    "user": {
+      "id": "usr-123456789",
+      "username": "artlover"
+    },
+    "source": "Twitter"
+  },
+  {
+    "id": "evt-987654321",
+    "timestamp": "2024-04-26T10:15:00Z",
+    "text": "Muito decepcionado com o serviço de entrega deste marketplace, demorou semanas e o produto chegou danificado.",
+    "sentiment": {
+      "score": 0.2,
+      "label": "negativo"
+    },
+    "product": {
+      "id": "prod-123456789",
+      "name": "Vaso de Cerâmica Pintado à Mão"
+    },
+    "user": {
+      "id": "usr-987654321",
+      "username": "ceramicfan"
+    },
+    "source": "Facebook"
+  },
+  {
+    "id": "evt-135792468",
+    "timestamp": "2024-04-27T08:45:00Z",
+    "text": "Que peça incrível! Estou apaixonado pelo design e pela qualidade.",
+    "sentiment": {
+      "score": 0.9,
+      "label": "positivo"
+    },
+    "product": {
+      "id": "prod-246813579",
+      "name": "Anel de Prata com Pedra Turquesa"
+    },
+    "user": {
+      "id": "usr-246813579",
+      "username": "jewelrylover"
+    },
+    "source": "Instagram"
+  },
+  {
+    "id": "evt-246813579",
+    "timestamp": "2024-04-28T12:30:00Z",
+    "text": "Adorei a experiência de compra neste marketplace. Recebi meu pedido antes do esperado!",
+    "sentiment": {
+      "score": 0.85,
+      "label": "positivo"
+    },
+    "product": {
+      "id": "prod-135792468",
+      "name": "Bolsa de Couro Legítimo"
+    },
+    "user": {
+      "id": "usr-135792468",
+      "username": "fashionista"
+    },
+    "source": "Twitter"
+  },
+  {
+    "id": "evt-987654321",
+    "timestamp": "2024-04-29T15:20:00Z",
+    "text": "A qualidade dos móveis deste marketplace é incomparável. Estou muito satisfeito com minha compra.",
+    "sentiment": {
+      "score": 0.95,
+      "label": "positivo"
+    },
+    "product": {
+      "id": "prod-987654321",
+      "name": "Mesa de Jantar de Madeira Maciça"
+    },
+    "user": {
+      "id": "usr-987654321",
+      "username": "homedecorfan"
+    },
+    "source": "Facebook"
+  },
+  {
+    "id": "evt-579135246",
+    "timestamp": "2024-04-30T18:10:00Z",
+    "text": "Comprei um conjunto de panelas neste marketplace e estou muito satisfeita com a qualidade. Recomendo!",
+    "sentiment": {
+      "score": 0.9,
+      "label": "positivo"
+    },
+    "product": {
+      "id": "prod-579135246",
+      "name": "Conjunto de Panelas Antiaderentes"
+    },
+    "user": {
+      "id": "usr-579135246",
+      "username": "cookmaster"
+    },
+    "source": "Twitter"
+  },
+  {
+    "id": "evt-369258147",
+    "timestamp": "2024-05-01T09:00:00Z",
+    "text": "A entrega foi rápida e o produto chegou em perfeitas condições. Muito obrigado!",
+    "sentiment": {
+      "score": 0.85,
+      "label": "positivo"
+    },
+    "product": {
+      "id": "prod-369258147",
+      "name": "Cadeira de Escritório Ergonômica"
+    },
+    "user": {
+      "id": "usr-369258147",
+      "username": "officeenthusiast"
+    },
+    "source": "Instagram"
+  },
+  {
+    "id": "evt-024681357",
+    "timestamp": "2024-05-02T13:45:00Z",
+    "text": "Fiquei impressionado com a rapidez da entrega. O produto é exatamente como descrito.",
+    "sentiment": {
+      "score": 0.9,
+      "label": "positivo"
+    },
+    "product": {
+      "id": "prod-024681357",
+      "name": "Chaleira de Vidro com Infusor de Chá"
+    },
+    "user": {
+      "id": "usr-024681357",
+      "username": "tealover"
+    },
+    "source": "Facebook"
+  },
+  {
+    "id": "evt-802469135",
+    "timestamp": "2024-05-03T16:30:00Z",
+    "text": "Infelizmente, meu pedido demorou mais do que o esperado para chegar e o produto estava danificado.",
+    "sentiment": {
+      "score": 0.1,
+      "label": "negativo"
+    },
+    "product": {
+      "id": "prod-802469135",
+      "name": "Tapete de Sala de Estar"
+    },
+    "user": {
+      "id": "usr-802469135",
+      "username": "homedecorlover"
+    },
+    "source": "Twitter"
+  },
+  {
+    "id": "evt-357924680",
+    "timestamp": "2024-05-04T11:20:00Z",
+    "text": "O produto chegou antes do esperado e estava muito bem embalado. Recomendo este marketplace!",
+    "sentiment": {
+      "score": 0.95,
+      "label": "positivo"
+    },
+    "product": {
+      "id": "prod-357924680",
+      "name": "Almofada Decorativa Estampada"
+    },
+    "user": {
+      "id": "usr-357924680",
+      "username": "homedecorfan"
+    },
+    "source": "Twitter"
+  },
+  {
+    "id": "evt-802469138",
+    "timestamp": "2024-05-05T14:15:00Z",
+    "text": "O atendimento ao cliente deste marketplace é excelente. Resolveram meu problema rapidamente.",
+    "sentiment": {
+      "score": 0.9,
+      "label": "positivo"
+    },
+    "product": {
+      "id": "prod-802469138",
+      "name": "Kit de Ferramentas Manuais"
+    },
+    "user": {
+      "id": "usr-802469138",
+      "username": "diyenthusiast"
+    },
+    "source": "Instagram"
+  },
+  {
+    "id": "evt-369258147",
+    "timestamp": "2024-05-06T17:00:00Z",
+    "text": "Estou muito satisfeito com o produto que comprei neste marketplace. Ótima qualidade!",
+    "sentiment": {
+      "score": 0.9,
+      "label": "positivo"
+    },
+    "product": {
+      "id": "prod-369258147",
+      "name": "Luminária de Mesa Articulável"
+    },
+    "user": {
+      "id": "usr-369258147",
+      "username": "lightingenthusiast"
+    },
+    "source": "Facebook"
+  },
+  {
+    "id": "evt-135792468",
+    "timestamp": "2024-05-07T10:45:00Z",
+    "text": "A entrega foi rápida e o produto veio muito bem embalado. Estou muito satisfeito!",
+    "sentiment": {
+      "score": 0.9,
+      "label": "positivo"
+    },
+    "product": {
+      "id": "prod-135792468",
+      "name": "Quadro Decorativo Abstrato"
+    },
+    "user": {
+      "id": "usr-135792468",
+      "username": "artlover"
+    },
+    "source": "Twitter"
+  }
+
+]
