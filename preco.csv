@@ -1,14 +1,14 @@
 product_id,product_name,average_price,minimum_price,maximum_price,survey_date
-prod-987654321,Bracelete Artesanal de Prata,150,140.0,160.0,25/04/2024
-prod-123456789,Vaso de Cerâmica Pintado à Mão,120,100.0,140.0,26/04/2024
-prod-123456788,Móvel Rústico,"300,000 ",290,310.0,01/06/2023
-prod-123456787,Colar de Pérolas,80,70,90.0,19/04/2024
-prod-123456786,Quadro Abstrato,200,190,210.0,18/05/2023
-prod-123456785,Cadeira de Balanço,150,140.0,160,25/04/2024
-prod-123456784,Bolsa de Couro,100,90,110.0,27/03/2024
-prod-123456783,Escultura em Bronze,250,240,260.0,31/07/2023
-prod-123456782,Relógio de Madeira,70,60,80.0,26/09/2023
-prod-123456781,Vestido de Linho,120,110,130.0,13/02/2024
-prod-123456780,Chapéu Panamá,40,30,50.0,07/09/2023
-prod-123456779,Cachecol de Cashmere,60,50,70.0,30/05/2023
-prod-123456778,Tapete Oriental,180,170,190.0,06/03/2024
+prod-987654321,Bracelete Artesanal de Prata,150,140,160,25/04/2024
+prod-123456789,Vaso de CerÃ¢mica Pintado Ã  MÃ£o,120,100,140,26/04/2024
+prod-123456788,MÃ³vel RÃºstico,300,290,310,01/06/2023
+prod-123456787,Colar de PÃ©rolas,80,70,90,19/04/2024
+prod-123456786,Quadro Abstrato,200,190,210,18/05/2023
+prod-123456785,Cadeira de BalanÃ§o,150,140,160,25/04/2024
+prod-123456784,Bolsa de Couro,100,90,110,27/03/2024
+prod-123456783,Escultura em Bronze,250,240,260,31/07/2023
+prod-123456782,RelÃ³gio de Madeira,70,60,80,26/09/2023
+prod-123456781,Vestido de Linho,120,110,130,13/02/2024
+prod-123456780,ChapÃ©u PanamÃ¡,40,30,50,07/09/2023
+prod-123456779,Cachecol de Cashmere,60,50,70,30/05/2023
+prod-123456778,Tapete Oriental,180,170,190,06/03/2024
